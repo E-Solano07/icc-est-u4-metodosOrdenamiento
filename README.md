@@ -14,3 +14,9 @@ Cree la clase `MetodoBurbuja` que implementa metodo de ordenamiento ascendente, 
 ### Descripcion
 
 Cree la clase `MetodoBurbujaAvanzado` el cual demuestra los cambios y comparaciones, ademas de optimizar el ordenamiento de los valores.
+
+## Practica 1.3 Metodo Seleccion
+### Fecha 2026-04-22
+### Descripcion
+
+Cree la clase `MetodoSeleccion` que implementa los metodos de sort, los cuales intercambian los valores del arreglo.
